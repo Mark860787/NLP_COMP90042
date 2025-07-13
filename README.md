@@ -1,6 +1,6 @@
 # COMP90042 - Natural Language Processing (2025)
 
-This repository contains all coursework completed for the University of Melbourne subject **COMP90042: Natural Language Processing**.
+This repository contains all my completed assignments for the University of Melbourne subject **COMP90042: Natural Language Processing**.
 
 ### 🧹 Assignment 1 — Text Preprocessing and Classification
 Implemented a full pipeline for text normalization, TF-IDF vectorization, and classification using Naive Bayes, Logistic Regression, and SVM.  
