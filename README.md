@@ -19,7 +19,7 @@ Key highlights:
 - Word2Vec outperformed BERT in this domain.
 - Attention pooling and Transformer-based ranking/classification achieved 41.3% relative improvement in harmonic mean over the baseline.
 
-Score: 34 / 35
+Score: 40 / 42
 
 ---
 
